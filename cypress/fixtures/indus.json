@@ -1,0 +1,10 @@
+{
+  "email": "support@industrack.com",
+  "password": "admin",
+  "Schedulejob": {
+  "description":"Job",
+  "priority": "High",
+  "colorName": "Grey",
+  "name":"john Smith"
+  }
+}
